@@ -87,7 +87,7 @@ Understand how a country’s development status influences life expectancy.
 ### This section highlight:
 •	The top 10 countries ranked by GDP
 
-• The economic output of each country in
+• The economic output of each country 
 
 •Global economic leaders and disparities among the top economies
 
