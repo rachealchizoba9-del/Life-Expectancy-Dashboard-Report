@@ -3,12 +3,15 @@
 ## 📌 Project Overview
 This project presents an interactive Life Expectancy Dashboard built in Power BI.
 The dashboard analyzes global health indicators and helps users understand how different countries compare in terms of:
+
 •	 Life expectancy
 
-
 •	Health expenditure
+
 •	Mortality rates
+
 •	Disease cases (Measles, Hepatitis B, HIV/AIDS)
+
 The dashboard provides a clean and simple visual story that highlights key global health patterns.
 
 
